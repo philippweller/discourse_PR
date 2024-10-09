@@ -1,0 +1,15 @@
+$color-circle-gradient: dark-light-choose(#dd9c2c, #cc9600);
+
+:root {
+  --color-circle-gradient: #{$color-circle-gradient};
+}
+$color-square-gradient: dark-light-choose(#a86b00, #cc9600);
+
+:root {
+  --color-square-gradient: #{$color-square-gradient};
+}
+$color-square-webkit-gradient: dark-light-choose(#a86b00, #cc9600);
+
+:root {
+  --color-square-webkit-gradient: #{$color-square-webkit-gradient};
+}
